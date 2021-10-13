@@ -1,0 +1,16 @@
+.feedback__statsList {
+  margin-right: auto;
+  margin-left: auto;
+  list-style: none;
+  text-align: left;
+  font-size: 20px;
+  line-height: 25px;
+}
+
+.positive {
+  color: green;
+}
+
+.negative {
+  color: red;
+}
